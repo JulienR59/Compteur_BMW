@@ -1,0 +1,3 @@
+测试代码兼容1.8.5以上版本Arduino IDE，其他版本IDE不确定兼容。
+
+The test code is compatible with Arduino-1.8.5 or latest versions, but not sure other versions of IDE whether compatible.
